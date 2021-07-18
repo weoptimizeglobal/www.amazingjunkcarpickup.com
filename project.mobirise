@@ -476,7 +476,7 @@
             },
             ".mbr-section-title": {
               "color": "#ff0000",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "header1",
