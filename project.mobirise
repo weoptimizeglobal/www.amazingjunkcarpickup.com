@@ -552,6 +552,9 @@
             },
             ".mbr-text": {
               "color": "#ffffff"
+            },
+            ".card-title": {
+              "color": "#4479d9"
             }
           },
           "_name": "contacts1",
